@@ -4,6 +4,7 @@ PSFree is a unstable and work in progress jailbreak multi firmware website for t
 This repo is based on the work of two other repo :
 - [PSFree from Kame repo](https://github.com/kmeps4/PSFree) 
 - [PSFree from Al-Azif repo](https://github.com/Al-Azif/psfree-lapse)
+- [PSFree from nazyk](https://github.com/Nazky/PSFree)
   
 ___
 
