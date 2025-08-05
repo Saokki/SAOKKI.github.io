@@ -146,7 +146,7 @@ function CheckFW() {
       });
     }
 
-    document.title = "SAOKKI | " + fwVersion;
+    document.title = "Jailbreak webkit by SAOKKI";
   } else {
     let platform = 'Unknown platform';
 
