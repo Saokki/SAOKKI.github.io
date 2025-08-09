@@ -4,7 +4,7 @@ html, body {
     padding: 0;
     overflow: show;
     section {
-  background: url("css/gambar.png");
+  background: link("css/gambar.png");
     };
 }
 
